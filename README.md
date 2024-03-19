@@ -1,2 +1,2 @@
 # xccelerate_p7
-Gen AI Chatbot
+Dialo GPT Chatbot
